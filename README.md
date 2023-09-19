@@ -19,5 +19,3 @@ Please follow the steps below to complete the task:
 Demonstrate the usage of the "Layout" component in a sample page. Create a sample React page where you import and use the "Layout" component, passing appropriate content as children.
 
 Feel free to reach out if you have any questions or need further assistance.
-
-Happy coding!
