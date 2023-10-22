@@ -1,5 +1,12 @@
+import Layout from "./components/Layout";
+import ContentPage from "./components/pages/ContentPage";
+
 function App() {
-  return <div>Layout Component Task</div>;
+  return (
+    <Layout>
+      <ContentPage/>
+    </Layout>
+  )
 }
 
 export default App;

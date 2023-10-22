@@ -1,0 +1,11 @@
+.body{
+    height: 60vh;
+    background-color: pink;
+    text-align: center;
+}
+.header , .footer{
+    height: 10vh;
+    text-align: center;
+    background-color: rgb(150, 140, 185);
+
+}
