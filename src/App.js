@@ -1,5 +1,14 @@
+import Layout from "./Layout/Layout";
+
 function App() {
-  return <div>Layout Component Task</div>;
+  return (
+    <Layout>
+      <Routes>
+      <Route path="/ContactUs" element={<ContactUs />} />
+      </Routes>
+      
+    </Layout>
+  )
 }
 
 export default App;
